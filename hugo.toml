@@ -1,0 +1,5 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es"
+title = "Auto Content Web"
+theme = "PaperMod"
+

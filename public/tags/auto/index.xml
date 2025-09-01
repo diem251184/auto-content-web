@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Auto on Auto Content Web</title>
+    <link>http://localhost:1313/tags/auto/</link>
+    <description>Recent content in Auto on Auto Content Web</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 31 Aug 2025 18:58:18 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/auto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beneficios de la meditación para principiantes</title>
+      <link>http://localhost:1313/blog/2025-08-31t185818_beneficios-de-la-meditaci-n-para-principiantes/</link>
+      <pubDate>Sun, 31 Aug 2025 18:58:18 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-08-31t185818_beneficios-de-la-meditaci-n-para-principiantes/</guid>
+      <description># Beneficios de la meditación para principiantes</description>
+    </item>
+    <item>
+      <title>Tema de prueba: cómo iniciar un blog rentable</title>
+      <link>http://localhost:1313/blog/2025-08-31t185422_tema-de-prueba-c-mo-iniciar-un-blog-rentable/</link>
+      <pubDate>Sun, 31 Aug 2025 18:54:22 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-08-31t185422_tema-de-prueba-c-mo-iniciar-un-blog-rentable/</guid>
+      <description># Tema de prueba: cómo iniciar un blog rentable</description>
+    </item>
+  </channel>
+</rss>
